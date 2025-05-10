@@ -7,3 +7,6 @@
 
 ##### Link to Kaggle Dataset: https://www.kaggle.com/datasets/mrsimple07/employee-attrition-data-prediction
 
+#### I also present a deeper analysis of my code in this document: https://docs.google.com/document/d/1-XAzh89aObPVxhGjAmPQFxO3rXge0F4_7kRleVeEviM/edit?tab=t.0
+#### In it, I compare and contrast different models and do an evaluation on which one I reccomend for highest accuracy.
+
